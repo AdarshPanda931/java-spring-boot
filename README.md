@@ -14,9 +14,9 @@ the real way
 4. 9hr - https://www.youtube.com/watch?v=m559BxR30ls
 
 ###### java core prequisit
-1.. collection framework - https://youtu.be/rzA7UJ-hQn4?si=K91fhUD8LKN5tYfE
-2.. multithreading - https://youtu.be/4aYvLz4E1Ts?si=KSgsdrkrNn4fq8tT
-3.exception handling - https://youtu.be/IZu5rZTN7PI?si=5KHOoLoW0zwzduPK
+1. collection framework - https://youtu.be/rzA7UJ-hQn4?si=K91fhUD8LKN5tYfE
+2. multithreading - https://youtu.be/4aYvLz4E1Ts?si=KSgsdrkrNn4fq8tT
+3. exception handling - https://youtu.be/IZu5rZTN7PI?si=5KHOoLoW0zwzduPK
 4. jdbc (adv java) - https://www.youtube.com/watch?v=Nc9NmS5kEjU
 ###### spring core prerequisit
 1. spring core- https://youtube.com/playlist?list=PLP_Rv5xQGFx7yKcVjWNT6jBPux6G14Q2_&si=tYyrX51zLXyQHZnX
