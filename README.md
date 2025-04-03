@@ -12,6 +12,20 @@ the real way
 2. full portfolio project - https://www.youtube.com/watch?v=-pv5pMBlMxs
 3. integrate project with AI - spring AI - https://www.youtube.com/watch?v=9Crrhz0pm8s
 4. 9hr - https://www.youtube.com/watch?v=m559BxR30ls
+###### java core prequisit
+. collection framework - https://youtu.be/rzA7UJ-hQn4?si=K91fhUD8LKN5tYfE
+. multithreading - https://youtu.be/4aYvLz4E1Ts?si=KSgsdrkrNn4fq8tT
+. exception handling - https://youtu.be/IZu5rZTN7PI?si=5KHOoLoW0zwzduPK
+. jdbc (adv java) - https://www.youtube.com/watch?v=Nc9NmS5kEjU
+###### spring core prerequisit
+. spring core- https://youtube.com/playlist?list=PLP_Rv5xQGFx7yKcVjWNT6jBPux6G14Q2_&si=tYyrX51zLXyQHZnX
+. servlet & web architecture - https://www.youtube.com/playlist?list=PLsyeobzWxl7pUPF2xjjJiG4BKC9x_GY46
+. jpa - https://youtu.be/ddrCOI0buBA?si=LbOtu5EvAUDvwiVq
+. rest api - https://youtu.be/rtWH70_MMHM?si=5IUXRBEkt2IZluYn
+. architectural - https://youtu.be/xuH81XGWeGQ?si=A72nisI5dAzuZ5FN
+. docker - basic 1hr- https://youtu.be/pg19Z8LL06w?si=2ZlTUWigYvkupzfp, basic + deep 3h- https://youtu.be/3c-iBn73dDE?si=_kf5Jb1l1F2n-i8a, 2hr- ttps://youtu.be/17Bl31rlnRM?si=_EG_fVV6PqHwg8oV
+. unit testing - 30 min https://youtu.be/flpmSXVTqBI?si=ke0-rceEG1ly9Dke, 1hr https://youtu.be/XVFqOFKGeGM?si=PyqRgdl_iZqUOlCn
+
 ### telusko
 5. spring boot - https://www.youtube.com/watch?v=-Fe0zk-F4OA
 6. spring (boot+security) - https://www.youtube.com/playlist?list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF
