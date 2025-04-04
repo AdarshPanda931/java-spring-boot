@@ -14,7 +14,6 @@ the real way
 5. 9hr - https://www.youtube.com/watch?v=m559BxR30ls
 ###### setup section
 1. setp by step lombok setup with practice - https://chatgpt.com/share/67efde47-96ec-800b-ad97-ffc5ab91f568
-###### setup section ends
 ###### java core prequisit
 1. collection framework - https://youtu.be/rzA7UJ-hQn4?si=K91fhUD8LKN5tYfE
 2. multithreading - https://youtu.be/4aYvLz4E1Ts?si=KSgsdrkrNn4fq8tT
