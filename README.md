@@ -11,7 +11,7 @@ the real way
    https://www.youtube.com/watch?v=YJFrdnzDYGE&list=PL7TZZ2ip0DRBQQkLgsiunUvVqyTlCiIB_&index=1 - old (check for few smaller video)
 ###### setup section
 1. setp by step lombok setup with practice - https://chatgpt.com/share/67efde47-96ec-800b-ad97-ffc5ab91f568
-######setup section ends
+###### setup section ends
 3. full portfolio project - https://www.youtube.com/watch?v=-pv5pMBlMxs
 4. integrate project with AI - spring AI - https://www.youtube.com/watch?v=9Crrhz0pm8s
 5. 9hr - https://www.youtube.com/watch?v=m559BxR30ls
