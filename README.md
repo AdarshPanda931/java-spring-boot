@@ -15,6 +15,7 @@ the real way
 ###### setup section
 1. setp by step lombok setup with practice - https://chatgpt.com/share/67efde47-96ec-800b-ad97-ffc5ab91f568
 ###### java core prequisit
+1. 39 to 93 https://www.youtube.com/watch?v=7HYaQOyvw7Q&list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5&index=39
 1. collection framework - https://youtu.be/rzA7UJ-hQn4?si=K91fhUD8LKN5tYfE
 2. multithreading - https://youtu.be/4aYvLz4E1Ts?si=KSgsdrkrNn4fq8tT
 3. exception handling - https://youtu.be/IZu5rZTN7PI?si=5KHOoLoW0zwzduPK
