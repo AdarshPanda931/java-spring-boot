@@ -7,6 +7,7 @@ the real way
 3. https://spring.io/projects/spring-boot#overview
 
 ### videos-
+1. https://www.youtube.com/playlist?list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF (continue 1 and 2(new) side by side)
 1. https://www.youtube.com/watch?v=eHw8bNZ7xi4&list=PL7TZZ2ip0DRCmJ57pzkc3EChRTJ6pm_bH&index=1 - new ⭐
    https://www.youtube.com/watch?v=YJFrdnzDYGE&list=PL7TZZ2ip0DRBQQkLgsiunUvVqyTlCiIB_&index=1 - old (check for few smaller video)
 3. full portfolio project - https://www.youtube.com/watch?v=-pv5pMBlMxs
@@ -14,7 +15,12 @@ the real way
 5. 9hr - https://www.youtube.com/watch?v=m559BxR30ls
 ###### setup section
 1. setp by step lombok setup with practice - https://chatgpt.com/share/67efde47-96ec-800b-ad97-ffc5ab91f568
-###### java core prequisit
+###### java core prequisite
+1. Complete Java:    • https://www.youtube.com/watch?v=4XTsAAHW_Tc - (complete java, maven, hybernate  till spring starts)
+   . threads, exception handling, collection(v.imp), oops, abstraction, maven, hibernateconcept: spring data jpa
+4. XML Playlist :   • https://www.youtube.com/playlist?list=PLsyeobzWxl7oanwaonj3iV3rxfTdEA2gC
+5. JSON Video :    • https://www.youtube.com/watch?v=JuFdz8f-cT4
+6. Git Repo : https://github.com/navinreddy20/sprin...
 1. 39 to 93 https://www.youtube.com/watch?v=7HYaQOyvw7Q&list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5&index=39 ⭐
 1. collection framework - https://youtu.be/rzA7UJ-hQn4?si=K91fhUD8LKN5tYfE
 2. multithreading - https://youtu.be/4aYvLz4E1Ts?si=KSgsdrkrNn4fq8tT
